@@ -2,6 +2,12 @@
 
 Install yarn, then:
 
+Install the dependencies with:
+
+```
+yarn
+```
+
 To run in dev environment, run the following command
 
 ```
